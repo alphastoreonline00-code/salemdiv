@@ -1,0 +1,38 @@
+{
+  "_comentario": "═══════════════════════════════════════════════════════════════",
+  "_instrucoes": "Edite APENAS este arquivo. Nunca precisa mexer no index.js.",
+  "_": "═══════════════════════════════════════════════════════════════",
+
+  "nome_bot": "SalemDiv",
+  "desenvolvedor": "Eredev",
+
+  "telegram": {
+    "token": "8396029131:AAGKdoWfU3zpthod3-V2XbeY-xtK6hRy93U",
+    "admin_id": 8229632778
+  },
+
+  "whatsapp": {
+    "dono_numero": "5585991181719",
+    "max_conexoes": 10
+  },
+
+  "configuracoes": {
+    "colheita_ativa": true,
+    "furacao_ativo": false,
+    "antipv": false,
+    "midia_ativa": true
+  },
+
+  "delays": {
+    "entre_divulgacoes_ms": 60000,
+    "entre_entradas_ms": 60000,
+    "entre_pulados_ms": 3000,
+    "digitando_segundos": 5
+  },
+
+  "navegador": {
+    "nome": "Ubuntu",
+    "browser": "Chrome",
+    "versao": "20.0.04"
+  }
+}

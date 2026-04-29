@@ -1,0 +1,21 @@
+{
+  "name": "srr330-bot",
+  "version": "1.0.0",
+  "description": "SRR 330 SYSTEM - Bot WhatsApp + Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pm2": "pm2 start index.js --name srr330"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.5.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
